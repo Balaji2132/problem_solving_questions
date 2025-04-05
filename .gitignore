@@ -1,0 +1,9 @@
+# Exclude all executable files
+*.exe
+
+# Common binary/compiled files to exclude
+*.o
+*.out
+*.obj
+*.so
+*.dll
