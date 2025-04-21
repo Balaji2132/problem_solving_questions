@@ -1,5 +1,6 @@
 # Exclude all executable files
 *.exe
+.vscode/
 
 # Common binary/compiled files to exclude
 *.o
